@@ -2,32 +2,27 @@
   "name": "funakoshi",
   "version": "0.0.1",
   "private": true,
-
   "author": "okadairo",
-
   "keywords": [
     "github",
     "hubot",
     "slack",
     "bot"
   ],
-
   "description": "A bot for okadairo",
-
   "license": "MIT",
-
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "https://github.com/okadairo/funakoshi.git"
   },
-
   "dependencies": {
-    "hubot":         ">= 2.6.0 < 3.0.0",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0"
+    "coffee-script": "1.7.1",
+    "hubot": ">= 2.6.0 < 3.0.0",
+    "hubot-scripts": ">= 2.5.0 < 3.0.0",
+    "hubot-slack": "^2.1.1"
   },
-
   "engines": {
     "node": ">= 0.8.x",
-    "npm":  ">= 1.1.x"
+    "npm": ">= 1.1.x"
   }
 }
