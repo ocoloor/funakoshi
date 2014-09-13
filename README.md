@@ -1,5 +1,7 @@
 # funakoshi
 
+[![Build Status](https://travis-ci.org/okadairo/funakoshi.svg?branch=master)](https://travis-ci.org/okadairo/funakoshi)
+
 A bot for okadairo.
 
 ## Configuration
