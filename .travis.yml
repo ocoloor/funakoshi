@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- '0.10'
+deploy:
+  provider: heroku
+  api_key:
+    secure: RJlIcmT82INFIxMkc6Ac71qQKB6aXRsZPwr5wgxvznBZYHWCLh5xRxo7SkEBUKPnF8pXbXvYjMC3VdBfrgdpjE8lAfkhKmtvOgqgNM3mW+hbghpFbjIpNOKUtGC9sd6DbyTuOGC456tq35oONsNt2JIAcEK42pIZln5NM9JrNUs=
+  app:
+    master: okadairo-hubot
+  on:
+    repo: okadairo/funakoshi
