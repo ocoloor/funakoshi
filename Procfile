@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n funakoshi
+web: bin/hubot -a xmpp -n funakoshi
