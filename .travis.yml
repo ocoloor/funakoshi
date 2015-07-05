@@ -2,10 +2,17 @@ language: node_js
 node_js:
 - '0.10'
 deploy:
-  provider: heroku
-  api_key:
-    secure: RJlIcmT82INFIxMkc6Ac71qQKB6aXRsZPwr5wgxvznBZYHWCLh5xRxo7SkEBUKPnF8pXbXvYjMC3VdBfrgdpjE8lAfkhKmtvOgqgNM3mW+hbghpFbjIpNOKUtGC9sd6DbyTuOGC456tq35oONsNt2JIAcEK42pIZln5NM9JrNUs=
-  app:
-    master: ocoloor-hubot
-  on:
-    repo: ocoloor/funakoshi
+  - provider: heroku
+    api_key:
+      secure: fMTlw3HIYIlShPndRleI2u1Q3xfH3dObHAur0JNlrklppri63R4FGPkpIEh4DpqIXyT6uZRng9S/h1YwymT/VX1ci6FhEX7bUu+XCBSynCZAgNwMlTSNELn2rfwZHFnrcdqFeIFd58WIGqTI/M6+RzXCznvwTv9QBBPiPcVynCU=
+    app:
+      master: ocoloor-hubot
+    on:
+      repo: ocoloor/funakoshi
+  - provider: heroku
+    api_key:
+      secure: fMTlw3HIYIlShPndRleI2u1Q3xfH3dObHAur0JNlrklppri63R4FGPkpIEh4DpqIXyT6uZRng9S/h1YwymT/VX1ci6FhEX7bUu+XCBSynCZAgNwMlTSNELn2rfwZHFnrcdqFeIFd58WIGqTI/M6+RzXCznvwTv9QBBPiPcVynCU=
+    app:
+      master: ocoloor-hubot-nightshift
+    on:
+      repo: ocoloor/funakoshi
