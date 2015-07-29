@@ -1,8 +1,18 @@
 [
   "hubot-cron",
+  "hubot-diagnostics",
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-help",
+  "hubot-heroku-keepalive",
   "hubot-lgtm",
+  "hubot-maps",
   "hubot-misawa",
+  "hubot-pugme",
+  "hubot-redis-brain",
+  "hubot-rules",
   "hubot-shinchoku",
+  "hubot-shipit",
   "hubot-suddendeath",
   "hubot-tiqav"
 ]
