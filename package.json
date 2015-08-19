@@ -2,18 +2,18 @@
   "name": "funakoshi",
   "version": "0.0.1",
   "private": true,
-  "author": "okadairo",
+  "author": "ocoloor",
   "keywords": [
     "github",
     "hubot",
     "slack",
     "bot"
   ],
-  "description": "A bot for okadairo",
+  "description": "A bot for ocoloor",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/okadairo/funakoshi.git"
+    "url": "https://github.com/ocoloor/funakoshi.git"
   },
   "dependencies": {
     "coffee-script": "^1.9.3",
