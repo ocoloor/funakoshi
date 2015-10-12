@@ -16,6 +16,6 @@ HEROKU_URL: http://<HEROKU_APP_NAME>.herokuapp.com
 ```
 
 [travis-url]: https://travis-ci.org/ocoloor/funakoshi
-[travis-image]: https://travis-ci.org/ocoloor/funakoshi.svg?branch=master
+[travis-image]:  https://img.shields.io/travis/ocoloor/funakoshi.svg?style=flat-square
 [daviddm-url]: https://david-dm.org/ocoloor/funakoshi
-[daviddm-image]: https://david-dm.org/ocoloor/funakoshi.svg
+[daviddm-image]: https://img.shields.io/david/ocoloor/funakoshi.svg?style=flat-square
