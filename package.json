@@ -16,14 +16,14 @@
     "url": "https://github.com/ocoloor/funakoshi.git"
   },
   "dependencies": {
-    "coffee-script": "^1.9.3",
-    "hubot": "^2.15.0",
+    "coffee-script": "^1.10.0",
+    "hubot": "^2.16.0",
     "hubot-cron": "^0.2.5",
     "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.2.1",
+    "hubot-google-images": "^0.2.2",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.1",
-    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-heroku-keepalive": "^1.0.0",
     "hubot-lgtm": "bouzuya/hubot-lgtm#2.0.1",
     "hubot-maps": "0.0.2",
     "hubot-misawa": "^0.1.1",
@@ -35,7 +35,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-suddendeath": "0.0.3",
     "hubot-tiqav": "0.0.2",
-    "hubot-xmpp": "^0.1.16"
+    "hubot-xmpp": "^0.1.18"
   },
   "engines": {
     "node": ">= 0.10.x",
