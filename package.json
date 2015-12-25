@@ -38,7 +38,7 @@
     "hubot-suddendeath": "0.0.3",
     "hubot-tanzaku": "^1.1.1",
     "hubot-tiqav": "0.0.2",
-    "hubot-xmpp": "^0.1.18"
+    "hubot-xmpp": "^0.2.0"
   },
   "engines": {
     "node": ">= 0.8.x < 0.13",
