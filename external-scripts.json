@@ -1,5 +1,4 @@
 [
-  "hubot-cron",
   "hubot-diagnostics",
   "hubot-github-contribution-stats",
   "hubot-google-images",
@@ -14,6 +13,7 @@
   "hubot-pugme",
   "hubot-redis-brain",
   "hubot-rules",
+  "hubot-schedule",
   "hubot-shinchoku",
   "hubot-shipit",
   "hubot-suddendeath",
