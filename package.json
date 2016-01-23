@@ -20,6 +20,7 @@
     "hubot": "^2.16.0",
     "hubot-cron": "^0.2.5",
     "hubot-diagnostics": "0.0.1",
+    "hubot-github-contribution-stats": "^0.1.0",
     "hubot-google-images": "^0.2.2",
     "hubot-google-translate": "^0.2.0",
     "hubot-gyotaku": "^1.0.1",

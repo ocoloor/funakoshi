@@ -1,6 +1,7 @@
 [
   "hubot-cron",
   "hubot-diagnostics",
+  "hubot-github-contribution-stats",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-gyotaku",
