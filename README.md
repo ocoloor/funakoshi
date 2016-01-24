@@ -8,6 +8,10 @@ A bot for ocoloor.
 ## Configuration
 
 ```
+# for hubot-google-image
+HUBOT_GOOGLE_CSE_ID: <CSE_ID>
+HUBOT_GOOGLE_CSE_KEY: <GOOGLE_API_TOKEN>
+
 # for hubot-xmpp
 HUBOT_XMPP_USERNAME: funakoshi@<SLACK_TEAM_NAME>.xmpp.slack.com
 HUBOT_XMPP_PASSWORD: <XMPP PASSWORD>
