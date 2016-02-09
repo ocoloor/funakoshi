@@ -19,7 +19,7 @@
     "coffee-script": "^1.10.0",
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
-    "hubot-github-contribution-stats": "0.5.0",
+    "hubot-github-contribution-stats": "0.5.1",
     "hubot-google-images": "0.2.2",
     "hubot-google-translate": "0.2.0",
     "hubot-gyotaku": "1.0.1",
