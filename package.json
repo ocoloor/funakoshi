@@ -16,6 +16,7 @@
     "url": "https://github.com/ocoloor/funakoshi.git"
   },
   "dependencies": {
+    "@moqada/hubot-hatena-counting": "github:moqada/hubot-hatena-counting",
     "coffee-script": "^1.10.0",
     "hubot": "^2.16.0",
     "hubot-alias": "0.1.9",
