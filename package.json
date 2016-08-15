@@ -28,6 +28,7 @@
     "hubot-help": "0.2.0",
     "hubot-heroku-keepalive": "1.0.0",
     "hubot-irasutoya": "^1.0.0",
+    "hubot-irkit": "^0.2.0",
     "hubot-jakucho": "1.1.0",
     "hubot-lgtm": "bouzuya/hubot-lgtm#2.0.1",
     "hubot-maps": "0.0.2",
