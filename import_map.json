@@ -4,6 +4,7 @@
     "deno-slack-api/": "https://deno.land/x/deno_slack_api@1.7.0/",
     "gbas/": "https://deno.land/x/gbas@0.1.0/",
     "mock_fetch/": "https://deno.land/x/mock_fetch@0.3.0/",
-    "std/": "https://deno.land/std@0.181.0/"
+    "std/": "https://deno.land/std@0.181.0/",
+    "easta": "npm:easta@7.0.0"
   }
 }
