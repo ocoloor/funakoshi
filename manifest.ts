@@ -38,6 +38,8 @@ export default Manifest({
       ...mentionCommandDispatcher.outgoingDomains,
       ...messageCommandDispatcher.outgoingDomains,
       ...reactionCommandDispatcher.outgoingDomains,
+      // for dependent modules
+      "esm.sh",
     ]),
   ],
   botScopes: [
