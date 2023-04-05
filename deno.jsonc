@@ -1,3 +1,6 @@
 {
-  "importMap": "import_map.json"
+  "importMap": "import_map.json",
+  "tasks": {
+    "command": "deno run -Ar https://deno.land/x/gbas/command.ts"
+  }
 }
