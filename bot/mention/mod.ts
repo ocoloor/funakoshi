@@ -5,3 +5,4 @@ export { suddendeath } from "./suddendeath.ts";
 export { tanzaku } from "./tanzaku.ts";
 export { youtube } from "./youtube.ts";
 export { niconico } from "./niconico.ts";
+export { googleAnimatedImage, googleImage } from "./google_image.ts";
