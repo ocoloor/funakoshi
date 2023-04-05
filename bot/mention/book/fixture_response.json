@@ -1,0 +1,660 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2848,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "I1T0jgEACAAJ",
+      "etag": "gRp6trFuKjw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I1T0jgEACAAJ",
+      "volumeInfo": {
+        "title": "修造パワーダイアリー",
+        "subtitle": "あなたの365日を応援する",
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4569827144"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784569827148"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 263,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=I1T0jgEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=I1T0jgEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E4%BF%AE%E9%80%A0%E3%83%91%E3%83%AF%E3%83%BC%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC.html?hl=&id=I1T0jgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I1T0jgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "日記形式で書き込みながら成長していくためのパワーブック。毎週、修造氏の写真とメッセージ、毎月成長のためのエクササイズを紹介!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p9qKzgEACAAJ",
+      "etag": "Oq/WfPzdGqU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p9qKzgEACAAJ",
+      "volumeInfo": {
+        "title": "[日めくり]まいにち、修造!",
+        "subtitle": "心を元気にする本気の応援メッセージ",
+        "authors": ["松岡修造"],
+        "publishedDate": "2014-09",
+        "description": "何かに躓いた日、心が折れそうな日、一歩を踏み出せない日......日々挫けそうになる心を、松岡修造が31の本気の言葉で応援する。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4569820786"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784569820781"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=p9qKzgEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=p9qKzgEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E6%97%A5%E3%82%81%E3%81%8F%E3%82%8A_%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1_%E4%BF%AE%E9%80%A0.html?hl=&id=p9qKzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p9qKzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "何かに躓いた日、心が折れそうな日、一歩を踏み出せない日......日々挫けそうになる心を、松岡修造が31の本気の言葉で応援する。"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fT6JrgEACAAJ",
+      "etag": "opSAcBdWHpY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fT6JrgEACAAJ",
+      "volumeInfo": {
+        "title": "解くだけで人生が変わる!修造ドリル",
+        "subtitle": "",
+        "authors": ["松岡修造"],
+        "publishedDate": "2015-05-07",
+        "description": "不安を抱えている、イライラしている、本気になれない、楽しいことがない、他人がうらやましい...そんな状況を打破したい方は、このドリルをすすめます!元気になれる!本気になれる!!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4776208768"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784776208761"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 191,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fT6JrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fT6JrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=fT6JrgEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=fT6JrgEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E8%A7%A3%E3%81%8F%E3%81%A0%E3%81%91%E3%81%A7%E4%BA%BA%E7%94%9F%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B_%E4%BF%AE%E9%80%A0.html?hl=&id=fT6JrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fT6JrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "不安を抱えている、イライラしている、本気になれない、楽しいことがない、他人がうらやましい...そんな状況を打破したい方は、このドリルをすすめます!元気になれる ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dl2KEAAAQBAJ",
+      "etag": "G37ZX6wKhdo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dl2KEAAAQBAJ",
+      "volumeInfo": {
+        "title": "「プレッシャー」が「よっしゃー」に変わる！ 修造流・逆転の発想法",
+        "authors": ["松岡修造"],
+        "publisher": "PHP研究所",
+        "publishedDate": "2021-08-05",
+        "description": "この本は弱さを強さに逆転させる具体的な方法を本気で書いた「本気本」です。ちょっとした発想の転換で、見違えるように自分の言動や行動が変わっていく。そんな松岡修造の逆転の発想法、前向きになれる日々のルーティンや自分に自信がもてて、もっと自分が好きになる考え方をわかりやすくお伝えします。 ●メンタルが弱い ●集中力がない ●友だち関係に悩んでいる 自分を変えたいすべての中高生へ松岡修造が全力で応援します！ 【目次】はじめに……弱いから逆転できる／準備運動 まずやってみよう！／第1章 逆に転がせ！ ピンチをチャンスにひっくり返す発想法／第2章 勉強がはかどる！ 受験に勝つ！ 修造流「全集中」の極意／第3章 レッツチャレンジ！ 夢をかなえるために今日からできること／第4章 毎日が楽しくなる！ 友達づきあいの悩みを好転させるヒント／第5章 「自分なんてダメだ」が消える！ 本気の応援メッセージ 【PHP研究所】",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:56988007210124050000"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 89,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dl2KEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dl2KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=Dl2KEAAAQBAJ&printsec=frontcover&dq=%E4%BF%AE%E9%80%A0&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Dl2KEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Dl2KEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1200,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1080,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Dl2KEAAAQBAJ&rdid=book-Dl2KEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1200000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1080000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC_%E3%81%8C_%E3%82%88%E3%81%A3%E3%81%97%E3%82%83%E3%83%BC-sample-epub.acsm?id=Dl2KEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC_%E3%81%8C_%E3%82%88%E3%81%A3%E3%81%97%E3%82%83%E3%83%BC-sample-pdf.acsm?id=Dl2KEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dl2KEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "この本は弱さを強さに逆転させる具体的な方法を本気で書いた「本気本」です。ちょっとした発想の転換で、見違えるように自分の言動や行動が変わっていく。そんな松岡修造の ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kRaMzgEACAAJ",
+      "etag": "gaCve4nyMn0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kRaMzgEACAAJ",
+      "volumeInfo": {
+        "title": "[日めくり]ほめくり、修造!",
+        "subtitle": "頑張る心を応援する本気のほめ言葉",
+        "authors": ["松岡修造"],
+        "publishedDate": "2015-09",
+        "description": "日本の応援団長・松岡修造氏が、31のほめ言葉と4つのスペシャルページで日本人のまいにちをほめて、ほめまくる『日めくり』です。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "456982644X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784569826448"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=kRaMzgEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=kRaMzgEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E6%97%A5%E3%82%81%E3%81%8F%E3%82%8A_%E3%81%BB%E3%82%81%E3%81%8F%E3%82%8A_%E4%BF%AE%E9%80%A0.html?hl=&id=kRaMzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kRaMzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "日本の応援団長・松岡修造氏が、31のほめ言葉と4つのスペシャルページで日本人のまいにちをほめて、ほめまくる『日めくり』です。"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RrZnQgAACAAJ",
+      "etag": "fZD8LhWkB5M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RrZnQgAACAAJ",
+      "volumeInfo": {
+        "title": "松岡修造の楽しいテニス",
+        "subtitle": "",
+        "authors": ["松岡修造"],
+        "publishedDate": "2007-08",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4811381963"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784811381961"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RrZnQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RrZnQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=RrZnQgAACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=RrZnQgAACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E6%9D%BE%E5%B2%A1%E4%BF%AE%E9%80%A0%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%84%E3%83%86%E3%83%8B%E3%82%B9.html?hl=&id=RrZnQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RrZnQgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iHfVuQEACAAJ",
+      "etag": "zPmYzxH6JEI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iHfVuQEACAAJ",
+      "volumeInfo": {
+        "title": "弱さをさらけだす勇気",
+        "authors": ["松岡修造"],
+        "publishedDate": "2018-06",
+        "description": "劣等感は、チャンレンジしている証拠! 様々な壁にぶち当たる若者を奮い立たせ勇気をくれる「日本の応援団長」からの熱きメッセージ",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4065115612"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784065115619"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iHfVuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iHfVuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=iHfVuQEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=iHfVuQEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E5%BC%B1%E3%81%95%E3%82%92%E3%81%95%E3%82%89%E3%81%91%E3%81%A0%E3%81%99%E5%8B%87%E6%B0%97.html?hl=&id=iHfVuQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iHfVuQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "劣等感は、チャンレンジしている証拠! 様々な壁にぶち当たる若者を奮い立たせ勇気をくれる「日本の応援団長」からの熱きメッセージ"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fMSSZwEACAAJ",
+      "etag": "etrd73gBkF4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fMSSZwEACAAJ",
+      "volumeInfo": {
+        "title": "松岡修造の人生を強く生きる83の言葉",
+        "subtitle": "弱い自分に負けないために",
+        "authors": ["松岡修造"],
+        "publishedDate": "2011-06",
+        "description": "本当は心が弱く、消極的な僕は、この言葉で自分を鼓舞してきた。後悔しないで生きるための修造式メンタル術。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4776206773"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784776206774"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fMSSZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fMSSZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=fMSSZwEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=fMSSZwEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E6%9D%BE%E5%B2%A1%E4%BF%AE%E9%80%A0%E3%81%AE%E4%BA%BA%E7%94%9F%E3%82%92%E5%BC%B7%E3%81%8F%E7%94%9F%E3%81%8D%E3%82%8B8.html?hl=&id=fMSSZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fMSSZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "本当は心が弱く、消極的な僕は、この言葉で自分を鼓舞してきた。後悔しないで生きるための修造式メンタル術。"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GsN5QgAACAAJ",
+      "etag": "NMi6xQfkjS0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GsN5QgAACAAJ",
+      "volumeInfo": {
+        "title": "テニス大好き!",
+        "subtitle": "1kan tenisu daisuki",
+        "authors": ["松岡修造"],
+        "publishedDate": "2007-05",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4811381955"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784811381954"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GsN5QgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GsN5QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=GsN5QgAACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=GsN5QgAACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E3%83%86%E3%83%8B%E3%82%B9%E5%A4%A7%E5%A5%BD%E3%81%8D.html?hl=&id=GsN5QgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GsN5QgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tAbOjgEACAAJ",
+      "etag": "IJ8Cmeb7jZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tAbOjgEACAAJ",
+      "volumeInfo": {
+        "title": "伝わる!修造トーク文庫版",
+        "subtitle": "一瞬で心をつかむ「話し方」60のルール",
+        "authors": ["松岡修造"],
+        "publishedDate": "2015-12-23",
+        "description": "「新入社員の理想の上司ナンバーワン」でもある修造さんが実践する方法。部下をもつ人!若手ビジネスパーソン!就活に挑む学生に!―修造流コミュニケーションで変わる!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4864104476"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784864104470"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tAbOjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tAbOjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=tAbOjgEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=tAbOjgEACAAJ&dq=%E4%BF%AE%E9%80%A0&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E4%BC%9D%E3%82%8F%E3%82%8B_%E4%BF%AE%E9%80%A0%E3%83%88%E3%83%BC%E3%82%AF%E6%96%87%E5%BA%AB%E7%89%88.html?hl=&id=tAbOjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tAbOjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「新入社員の理想の上司ナンバーワン」でもある修造さんが実践する方法。部下をもつ人!若手ビジネスパーソン!就活に挑む学生に!―修造流コミュニケーションで変わる!"
+      }
+    }
+  ]
+}
