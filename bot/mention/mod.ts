@@ -7,3 +7,4 @@ export { youtube } from "./youtube.ts";
 export { niconico } from "./niconico.ts";
 export { googleAnimatedImage, googleImage } from "./google_image.ts";
 export { lou5 } from "./lou5.ts";
+export { sushi } from "./sushi.ts";
