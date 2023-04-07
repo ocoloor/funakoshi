@@ -11,3 +11,4 @@ export { sushi } from "./sushi.ts";
 export { book } from "./book/mod.ts";
 export { spotify } from "./spotify/mod.ts";
 export { wikipedia } from "./wikipedia.ts";
+export { chatgpt } from "./chatgpt.ts";
