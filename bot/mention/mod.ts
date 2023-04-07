@@ -9,3 +9,4 @@ export { googleAnimatedImage, googleImage } from "./google_image.ts";
 export { lou5 } from "./lou5.ts";
 export { sushi } from "./sushi.ts";
 export { book } from "./book/mod.ts";
+export { spotify } from "./spotify/mod.ts";
