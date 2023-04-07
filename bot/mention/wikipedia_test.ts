@@ -1,7 +1,7 @@
 import { createMentionCommandTester } from "gbas/mod.ts";
-import { mentionCommandDispatcher } from "../dispatchers.ts";
 import { assert, assertEquals, assertMatch } from "std/testing/asserts.ts";
 import * as mf from "mock_fetch/mod.ts";
+import { wikipedia } from "./wikipedia.ts";
 
 const FIXTURE_SEARCH_RESPONSE = {
   batchcomplete: "",
@@ -65,7 +65,7 @@ const FIXTURE_SEARCH_RESPONSE = {
 
 mf.install();
 
-const { createContext } = createMentionCommandTester();
+const { createContext, dispatch } = createMentionCommandTester(wikipedia);
 Deno.test("wikipedia (wiki)", async () => {
   const apiCalls: Request[] = [];
   mf.mock("GET@/w/api.php", (req) => {
@@ -73,7 +73,7 @@ Deno.test("wikipedia (wiki)", async () => {
     return new Response(JSON.stringify(FIXTURE_SEARCH_RESPONSE));
   });
 
-  const res = await mentionCommandDispatcher.dispatch(
+  const res = await dispatch(
     createContext("<@BOT> wiki 宇宙"),
   );
 
@@ -95,7 +95,7 @@ Deno.test("wikipedia (wikipedia)", async () => {
     return new Response(JSON.stringify(FIXTURE_SEARCH_RESPONSE));
   });
 
-  const res = await mentionCommandDispatcher.dispatch(
+  const res = await dispatch(
     createContext("<@BOT> wikipedia 宇宙"),
   );
 

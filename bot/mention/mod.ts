@@ -10,6 +10,6 @@ export { lou5 } from "./lou5.ts";
 export { sushi } from "./sushi.ts";
 export { book } from "./book/mod.ts";
 export { spotify } from "./spotify/mod.ts";
-export { wikipedia } from "./wikipedia.ts";
+// export { wikipedia } from "./wikipedia.ts";
 export { chatgpt } from "./chatgpt.ts";
 export { text2image } from "./text2image.ts";
