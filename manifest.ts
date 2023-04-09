@@ -37,6 +37,7 @@ export default Manifest({
     "chat:write",
     "chat:write.customize",
     "chat:write.public",
+    "files:write", // text2image (client.files.upload)
     "reactions:read",
     "reactions:write",
   ],
