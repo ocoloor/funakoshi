@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "ocoloor": {
+      "name": "ocoloor",
+      "app_id": "A03BL3P8Z1U",
+      "team_id": "T024S85KW",
+      "IsDev": false
+    }
+  },
+  "default": "ocoloor"
+}

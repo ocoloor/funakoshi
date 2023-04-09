@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "ドラム",
+    "image": "http://livedoor.blogimg.jp/jigokuno_misawa/imgs/6/b/6bb141f8.gif",
+    "character": "KAZ(32)",
+    "cid": 1,
+    "eid": 1,
+    "body": "この世に存在するドラムは\n\n全て俺が叩く\n"
+  },
+  {
+    "id": 2,
+    "title": "変えた？",
+    "image": "http://livedoor.blogimg.jp/jigokuno_misawa/imgs/f/5/f5e3f34f.gif",
+    "character": "野村(21)",
+    "cid": 2,
+    "eid": 2,
+    "body": "あれ？髪型変えた？\n\nそれに、\n右腕にドリルを移植した？\n"
+  },
+  {
+    "id": 3,
+    "title": "遅刻",
+    "image": "http://livedoor.blogimg.jp/jigokuno_misawa/imgs/c/1/c110fcf5.gif",
+    "character": "コウヘイ(26)",
+    "cid": 3,
+    "eid": 3,
+    "body": "すいません\n\nメンノン読んでて遅れました\n"
+  },
+  {
+    "id": 4,
+    "title": "タイム",
+    "image": "http://livedoor.blogimg.jp/jigokuno_misawa/imgs/d/2/d27529c8.gif",
+    "character": "中村健(25)",
+    "cid": 4,
+    "eid": 4,
+    "body": "ハーフタイムが何分あろうとも\n\n俺は休まない\n"
+  },
+  {
+    "id": 5,
+    "title": "欧州",
+    "image": "http://livedoor.blogimg.jp/jigokuno_misawa/imgs/6/2/62132366.gif",
+    "character": "ミラージュ(35)",
+    "cid": 5,
+    "eid": 5,
+    "body": "あっ、ごめん\n\nイタリアのこと考えてた\n"
+  },
+  {
+    "id": 6,
+    "title": "怪我",
+    "image": "http://livedoor.blogimg.jp/jigokuno_misawa/imgs/9/e/9e07e1c7.gif",
+    "character": "吉岡(18)",
+    "cid": 6,
+    "eid": 6,
+    "body": "痛っ…くねー 全然痛くねえ\n見た目ほど痛くねえわ\n\nでもちょっと用あるし帰るわ\n"
+  },
+  {
+    "id": 7,
+    "title": "中身",
+    "image": "http://livedoor.blogimg.jp/jigokuno_misawa/imgs/0/3/0383b1b8.gif",
+    "character": "つっちー(26)",
+    "cid": 7,
+    "eid": 7,
+    "body": "っけね〜　麦茶と間違えて\n\nロマネコンティ\n入れてきちゃった\n"
+  },
+  {
+    "id": 8,
+    "title": "変わった？",
+    "image": "http://livedoor.blogimg.jp/jigokuno_misawa/imgs/9/c/9c5be517.gif",
+    "character": "野村(21)",
+    "cid": 2,
+    "eid": 8,
+    "body": "あれ？マスカラ変えた？\n\nそれに、\nお義母さんも変わった？\n"
+  },
+  {
+    "id": 9,
+    "title": "やさしい",
+    "image": "http://livedoor.blogimg.jp/jigokuno_misawa/imgs/5/0/502c8418.gif",
+    "character": "NAKAYAN(30)",
+    "cid": 8,
+    "eid": 9,
+    "body": "あんまり悩みすぎない方が\nいいんじゃない？\n"
+  },
+  {
+    "id": 10,
+    "title": "余裕",
+    "image": "http://livedoor.blogimg.jp/jigokuno_misawa/imgs/5/a/5a1e774c.gif",
+    "character": "藤井(28)",
+    "cid": 9,
+    "eid": 10,
+    "body": "自転車を盗まれても\n動じない\n\nそれが俺の流儀だ\n"
+  }
+]

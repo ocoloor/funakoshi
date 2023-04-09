@@ -1,0 +1,402 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%8A%E3%81%B0%E3%81%82%E3%81%A1%E3%82%83%E3%82%93&type=track&market=JP&locale=ja%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8&offset=0&limit=5",
+    "items": [
+      {
+        "album": {
+          "album_group": "compilation",
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "ヴァリアス・アーティスト",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3ZblGJJIGKnBUwYdQ0xOEu"
+          },
+          "href": "https://api.spotify.com/v1/albums/3ZblGJJIGKnBUwYdQ0xOEu",
+          "id": "3ZblGJJIGKnBUwYdQ0xOEu",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732530a07785367af78f02125e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e022530a07785367af78f02125e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048512530a07785367af78f02125e",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "<戦後70年 歌のあゆみ> こどものうた 〜とんがり帽子・みかんの花さく丘〜",
+          "release_date": "2015-07-29",
+          "release_date_precision": "day",
+          "total_tracks": 90,
+          "type": "album",
+          "uri": "spotify:album:3ZblGJJIGKnBUwYdQ0xOEu"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hEhHneF5BoeF6goVMyYCs"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hEhHneF5BoeF6goVMyYCs",
+            "id": "2hEhHneF5BoeF6goVMyYCs",
+            "name": "酒井司優子",
+            "type": "artist",
+            "uri": "spotify:artist:2hEhHneF5BoeF6goVMyYCs"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 212280,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "JPCO08207540"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XBnYxGAp8TtayFqHa2y8d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3XBnYxGAp8TtayFqHa2y8d",
+        "id": "3XBnYxGAp8TtayFqHa2y8d",
+        "is_local": false,
+        "is_playable": true,
+        "name": "コンピューターおばあちゃん",
+        "popularity": 20,
+        "preview_url": "https://p.scdn.co/mp3-preview/2a5b79bf58c593daa771c342bccdab6ee66f8023?cid=cfe923b2d660439caf2b557b21f31221",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:3XBnYxGAp8TtayFqHa2y8d"
+      },
+      {
+        "album": {
+          "album_group": "single",
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3l4rRK7zL537twQBI967Bq"
+              },
+              "href": "https://api.spotify.com/v1/artists/3l4rRK7zL537twQBI967Bq",
+              "id": "3l4rRK7zL537twQBI967Bq",
+              "name": "POLYSICS",
+              "type": "artist",
+              "uri": "spotify:artist:3l4rRK7zL537twQBI967Bq"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4MD5zWuqhKWs9YkPx1qGQ4"
+          },
+          "href": "https://api.spotify.com/v1/albums/4MD5zWuqhKWs9YkPx1qGQ4",
+          "id": "4MD5zWuqhKWs9YkPx1qGQ4",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b6966480335b21a1c62da089",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02b6966480335b21a1c62da089",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851b6966480335b21a1c62da089",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "コンピューターおばあちゃん",
+          "release_date": "2007-10-17",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4MD5zWuqhKWs9YkPx1qGQ4"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l4rRK7zL537twQBI967Bq"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l4rRK7zL537twQBI967Bq",
+            "id": "3l4rRK7zL537twQBI967Bq",
+            "name": "POLYSICS",
+            "type": "artist",
+            "uri": "spotify:artist:3l4rRK7zL537twQBI967Bq"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190906,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "JPKS00701282"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21wf6iTbgoTxfvj5Pm62p9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/21wf6iTbgoTxfvj5Pm62p9",
+        "id": "21wf6iTbgoTxfvj5Pm62p9",
+        "is_local": false,
+        "is_playable": true,
+        "name": "コンピューターおばあちゃん",
+        "popularity": 15,
+        "preview_url": "https://p.scdn.co/mp3-preview/e870753c15c7e45d3b2eb5ff6de2296452e4231b?cid=cfe923b2d660439caf2b557b21f31221",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:21wf6iTbgoTxfvj5Pm62p9"
+      },
+      {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2RbkJmEqeG4QZ4bOWKy1ik"
+              },
+              "href": "https://api.spotify.com/v1/artists/2RbkJmEqeG4QZ4bOWKy1ik",
+              "id": "2RbkJmEqeG4QZ4bOWKy1ik",
+              "name": "コスミック・インベンション",
+              "type": "artist",
+              "uri": "spotify:artist:2RbkJmEqeG4QZ4bOWKy1ik"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5RSIdlIf3tCvlCt55D84SG"
+          },
+          "href": "https://api.spotify.com/v1/albums/5RSIdlIf3tCvlCt55D84SG",
+          "id": "5RSIdlIf3tCvlCt55D84SG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c0b81caef2562344408c2eb4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c0b81caef2562344408c2eb4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c0b81caef2562344408c2eb4",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "コンプリート・ベスト",
+          "release_date": "2011-11-23",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:5RSIdlIf3tCvlCt55D84SG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RbkJmEqeG4QZ4bOWKy1ik"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RbkJmEqeG4QZ4bOWKy1ik",
+            "id": "2RbkJmEqeG4QZ4bOWKy1ik",
+            "name": "コスミック・インベンション",
+            "type": "artist",
+            "uri": "spotify:artist:2RbkJmEqeG4QZ4bOWKy1ik"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 191181,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "JPVI08107920"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RENa3jRk9ufIlPNJNFK4s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RENa3jRk9ufIlPNJNFK4s",
+        "id": "5RENa3jRk9ufIlPNJNFK4s",
+        "is_local": false,
+        "is_playable": true,
+        "name": "コンピューターおばあちゃん",
+        "popularity": 8,
+        "preview_url": "https://p.scdn.co/mp3-preview/60906e5a3239b2960ba2bf14a02a18567c02a7fa?cid=cfe923b2d660439caf2b557b21f31221",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5RENa3jRk9ufIlPNJNFK4s"
+      },
+      {
+        "album": {
+          "album_group": "compilation",
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "ヴァリアス・アーティスト",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/08L3r70sVJ46RMxGVz1t8k"
+          },
+          "href": "https://api.spotify.com/v1/albums/08L3r70sVJ46RMxGVz1t8k",
+          "id": "08L3r70sVJ46RMxGVz1t8k",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273966f135fc0e55276d30cef64",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02966f135fc0e55276d30cef64",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851966f135fc0e55276d30cef64",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "しょうわ・へいせい・れいわ こどもヒットモウラ!オンパレード♪ベスト60",
+          "release_date": "2020-09-09",
+          "release_date_precision": "day",
+          "total_tracks": 59,
+          "type": "album",
+          "uri": "spotify:album:08L3r70sVJ46RMxGVz1t8k"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hEhHneF5BoeF6goVMyYCs"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hEhHneF5BoeF6goVMyYCs",
+            "id": "2hEhHneF5BoeF6goVMyYCs",
+            "name": "酒井司優子",
+            "type": "artist",
+            "uri": "spotify:artist:2hEhHneF5BoeF6goVMyYCs"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 161626,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "JPKI08279752"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dnPmAaUsLXuAX2QjUae4a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5dnPmAaUsLXuAX2QjUae4a",
+        "id": "5dnPmAaUsLXuAX2QjUae4a",
+        "is_local": false,
+        "is_playable": true,
+        "name": "コンピューターおばあちゃん",
+        "popularity": 4,
+        "preview_url": "https://p.scdn.co/mp3-preview/318fd5569728506857e256b0ad22097d13fd7216?cid=cfe923b2d660439caf2b557b21f31221",
+        "track_number": 20,
+        "type": "track",
+        "uri": "spotify:track:5dnPmAaUsLXuAX2QjUae4a"
+      },
+      {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP"
+              },
+              "href": "https://api.spotify.com/v1/artists/1YoSYNmMHPZEa2WNNUS1oP",
+              "id": "1YoSYNmMHPZEa2WNNUS1oP",
+              "name": "フレネシ",
+              "type": "artist",
+              "uri": "spotify:artist:1YoSYNmMHPZEa2WNNUS1oP"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4wSHGTo2GAjlpmzoQDLx2I"
+          },
+          "href": "https://api.spotify.com/v1/albums/4wSHGTo2GAjlpmzoQDLx2I",
+          "id": "4wSHGTo2GAjlpmzoQDLx2I",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d0d4d4e8756aceed07e67b0f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02d0d4d4e8756aceed07e67b0f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851d0d4d4e8756aceed07e67b0f",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "メルヘン",
+          "release_date": "2010",
+          "release_date_precision": "year",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:4wSHGTo2GAjlpmzoQDLx2I"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YoSYNmMHPZEa2WNNUS1oP",
+            "id": "1YoSYNmMHPZEa2WNNUS1oP",
+            "name": "フレネシ",
+            "type": "artist",
+            "uri": "spotify:artist:1YoSYNmMHPZEa2WNNUS1oP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 168480,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QM6P42002002"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12btgSWrv6WgLm8BqIdKIk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/12btgSWrv6WgLm8BqIdKIk",
+        "id": "12btgSWrv6WgLm8BqIdKIk",
+        "is_local": false,
+        "is_playable": true,
+        "name": "コンピューター おばあちゃん",
+        "popularity": 9,
+        "preview_url": "https://p.scdn.co/mp3-preview/9a8645e4ba4d5a6a93699a3aedcc0fbb3b605de5?cid=cfe923b2d660439caf2b557b21f31221",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:12btgSWrv6WgLm8BqIdKIk"
+      }
+    ],
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/search?query=%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%8A%E3%81%B0%E3%81%82%E3%81%A1%E3%82%83%E3%82%93&type=track&market=JP&locale=ja%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8&offset=5&limit=5",
+    "offset": 0,
+    "previous": null,
+    "total": 1000
+  }
+}
