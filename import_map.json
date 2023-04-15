@@ -1,10 +1,10 @@
 {
   "imports": {
-    "deno-slack-sdk/": "https://deno.land/x/deno_slack_sdk@1.6.1/",
-    "deno-slack-api/": "https://deno.land/x/deno_slack_api@1.7.0/",
-    "gbas/": "https://deno.land/x/gbas@0.2.0/",
+    "deno-slack-sdk/": "https://deno.land/x/deno_slack_sdk@2.1.0/",
+    "deno-slack-api/": "https://deno.land/x/deno_slack_api@2.0.1/",
+    "gbas/": "https://deno.land/x/gbas@0.3.1/",
     "mock_fetch/": "https://deno.land/x/mock_fetch@0.3.0/",
-    "std/": "https://deno.land/std@0.181.0/",
+    "std/": "https://deno.land/std@0.183.0/",
     "easta": "https://esm.sh/v114/easta@7.0.0",
     "tanzaku": "https://esm.sh/v114/tanzaku@1.2.1"
   }
