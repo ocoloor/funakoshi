@@ -24,7 +24,7 @@ jobs:
             Dependencies updated by [udd](https://github.com/hayd/deno-udd).
 
             *To run other CI actions close/reopen this PR*
-          branch: pre-release
+          branch: dependencies
           author: GitHub <noreply@github.com>
           delete-branch: true
       - name: Retrieve PR number
