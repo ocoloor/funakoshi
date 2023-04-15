@@ -22,6 +22,8 @@ jobs:
           title: Update dependencies
           body: >
             Dependencies updated by [udd](https://github.com/hayd/deno-udd).
+
+            *To run other CI actions close/reopen this PR*
           branch: pre-release
           author: GitHub <noreply@github.com>
           delete-branch: true
