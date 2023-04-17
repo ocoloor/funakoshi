@@ -40,7 +40,14 @@ export const text2image = createMentionCommand({
   pattern: /^(?:text2image|t2i)\s+(.+)$/i,
   execute: async (c) => {
     const prompt = c.match[1];
+    const message = await c.interrupt.postMessage(
+      "画像を生成しているぞ... :art:",
+    );
     const res = await generateImage({ apiKey: c.env.OPENAI_API_KEY, prompt });
+    await c.interrupt.deleteMessage({
+      channelId: message.channelId,
+      messageTs: message.messageTs,
+    });
     if (!res.ok) {
       return c.res.message(`画像の生成に失敗したぞ: \`${res.error}\``);
     }
