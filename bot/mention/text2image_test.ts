@@ -81,7 +81,10 @@ Deno.test("text2image image generation failed", async () => {
   const res = await mentionCommandDispatcher.dispatch(ctx);
 
   assert(res.type === "message");
-  assertEquals(res.text, '画像の生成に失敗したぞ: `{"error":"DUMMY_ERROR"}`');
+  assertEquals(
+    res.text,
+    '画像の生成に失敗したぞ\n```\n{"error":"DUMMY_ERROR"}\n```',
+  );
 
   assertEquals(imageCalls.length, 1);
   assertEquals(uploadCalls.length, 0);
@@ -107,7 +110,7 @@ Deno.test("text2image image upload failed", async () => {
   assert(res.type === "message");
   assertEquals(
     res.text,
-    '画像のアップロードに失敗したぞ: `{"error":"DUMMY_ERROR"}`',
+    '画像のアップロードに失敗したぞ\n```\n{"error":"DUMMY_ERROR"}\n```',
   );
 
   assertEquals(imageCalls.length, 1);

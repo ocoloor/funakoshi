@@ -49,7 +49,10 @@ export const text2image = createMentionCommand({
       messageTs: message.messageTs,
     });
     if (!res.ok) {
-      return c.res.message(`画像の生成に失敗したぞ: \`${res.error}\``);
+      return c.res.message(`画像の生成に失敗したぞ
+\`\`\`
+${res.error}
+\`\`\``);
     }
 
     const base64Image: string = res.value.data[0].b64_json;
@@ -74,7 +77,10 @@ export const text2image = createMentionCommand({
     });
     if (!resUpload.ok) {
       return c.res.message(
-        `画像のアップロードに失敗したぞ: \`${await resUpload.text()}\``,
+        `画像のアップロードに失敗したぞ
+\`\`\`
+${await resUpload.text()}
+\`\`\``,
       );
     }
 
