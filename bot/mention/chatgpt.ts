@@ -1,5 +1,7 @@
 import { createMentionCommand } from "gbas/mod.ts";
+import { SECOND } from "std/datetime/mod.ts";
 
+const TIMEOUT_SECONDS = 12;
 const PATTERN = /^(?:chatgpt|c)\s+([\s\S]+)/i;
 const ASSISTANTS = [{
   name: "板東AI二",
@@ -45,7 +47,7 @@ type ChatCompletionResponse = {
       index: number;
     }>;
   };
-} | { ok: false; error: string };
+} | { ok: false; error: string; isTimeout?: boolean };
 
 const chatCompletions = async (
   { apiKey, messages }: {
@@ -53,22 +55,35 @@ const chatCompletions = async (
     messages: ChatCompletionMessage[];
   },
 ): Promise<ChatCompletionResponse> => {
-  const res = await fetch("https://api.openai.com/v1/chat/completions", {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${apiKey}`,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      model: "gpt-3.5-turbo",
-      messages,
-    }),
-  });
-  if (!res.ok) {
-    return { ok: false, error: await res.text() };
+  const ac = new AbortController();
+  const timerId = setTimeout(() => ac.abort(), TIMEOUT_SECONDS * SECOND);
+  try {
+    const res = await fetch("https://api.openai.com/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${apiKey}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        model: "gpt-3.5-turbo",
+        messages,
+        max_tokens: 2048,
+      }),
+      signal: ac.signal,
+    });
+    if (!res.ok) {
+      return { ok: false, error: await res.text() };
+    }
+    const value = await res.json();
+    return { ok: true, value } as ChatCompletionResponse;
+  } catch (err) {
+    if (err?.name === "AbortError") {
+      return { ok: false, error: err.message, isTimeout: true };
+    }
+    return { ok: false, error: err.message };
+  } finally {
+    clearTimeout(timerId);
   }
-  const value = await res.json();
-  return { ok: true, value } as ChatCompletionResponse;
 };
 
 const createChatConversations = (
@@ -141,7 +156,11 @@ export const chatgpt = createMentionCommand({
       messages,
     });
     if (!resChat.ok) {
-      return c.res.message(`リクエストに失敗したぞ: ${resChat.error}`);
+      return resChat?.isTimeout
+        ? c.res.message(
+          `${TIMEOUT_SECONDS}秒以内にChatGPTの応答がなかったのでタイムアウトしたぞ`,
+        )
+        : c.res.message(`リクエストに失敗したぞ: ${resChat.error}`);
     }
     const reply = resChat.value.choices[0]?.message.content;
     if (!reply) {
