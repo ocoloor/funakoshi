@@ -1,10 +1,10 @@
 {
   "apps": {
-    "ocoloor": {
-      "name": "ocoloor",
+    "T024S85KW": {
       "app_id": "A03BL3P8Z1U",
-      "team_id": "T024S85KW",
-      "IsDev": false
+      "IsDev": false,
+      "team_domain": "ocoloor",
+      "team_id": "T024S85KW"
     }
   },
   "default": "ocoloor"
