@@ -1,0 +1,19 @@
+{
+  "display_information": {
+    "name": "Funakoshi Channel Manager"
+  },
+  "oauth_config": {
+    "scopes": {
+      "user": ["channels:read", "groups:read", "mpim:read"]
+    }
+  },
+  "settings": {
+    "event_subscriptions": {
+      "request_url": "https://example.com/your-events-url",
+      "user_events": ["member_joined_channel", "member_left_channel"]
+    },
+    "org_deploy_enabled": false,
+    "socket_mode_enabled": false,
+    "token_rotation_enabled": false
+  }
+}

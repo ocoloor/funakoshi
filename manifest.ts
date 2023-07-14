@@ -12,6 +12,7 @@ import { botMessageCommandWorkflow } from "./workflows/bot_message_command.ts";
 import { botReactionCommandWorkflow } from "./workflows/bot_reaction_command.ts";
 import { botScheduledMaintenanceWorkflow } from "./workflows/bot_scheduled_maintenance.ts";
 import { botAllChannelConfigurationWorkflow } from "./workflows/bot_all_channel_configuration.ts";
+import { botWebhookMaintenanceWorkflow } from "./workflows/bot_webhook_maintenance.ts";
 
 /**
  * The app manifest contains the app's configuration. This
@@ -32,6 +33,7 @@ export default Manifest({
     botReactionCommandWorkflow,
     botScheduledMaintenanceWorkflow,
     botAllChannelConfigurationWorkflow,
+    botWebhookMaintenanceWorkflow,
   ],
   outgoingDomains: [
     ...new Set([
