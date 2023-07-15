@@ -1,13 +1,8 @@
 import { DefineFunction, Schema, SlackFunction } from "deno-slack-sdk/mod.ts";
-import {
-  getAllPublicNoSharedChannels,
-  getJoinedPublicNoSharedChannels,
-} from "../../lib/slack_api.ts";
+import { getJoinedPublicNoSharedChannels } from "../../lib/slack_api.ts";
 import {
   setupActiveChannelTriggers,
-  setupAllChannelTriggers,
   setupWorkspaceScheduledTriggers,
-  setupWorkspaceTriggers,
 } from "../../bot/management.ts";
 
 export const ConfigureAllTriggersInModalFunctionDef = DefineFunction({
@@ -92,11 +87,6 @@ export default SlackFunction(
     };
   },
 ).addViewSubmissionHandler(["configure_all_channels"], async ({ client }) => {
-  const allChannelIds = (await getAllPublicNoSharedChannels({ client })).map(
-    (c) => c.id,
-  );
-  await setupAllChannelTriggers({ channelIds: allChannelIds, client });
-  await setupWorkspaceTriggers({ client });
   await setupWorkspaceScheduledTriggers({ client });
   return {
     response_action: "update",
