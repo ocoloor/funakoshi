@@ -52,8 +52,9 @@ Deno.test("text2image", async () => {
   assertEquals(imageBody, {
     prompt,
     n: 1,
+    model: "dall-e-3",
     response_format: "b64_json",
-    size: "512x512",
+    size: "1024x1024",
   });
 
   assertEquals(uploadCalls.length, 1);
